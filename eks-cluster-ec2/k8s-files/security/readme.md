@@ -67,5 +67,5 @@ metadata:
   resourceVersion: "50777"
   uid: f1ff4023-148e-43ef-986f-dc90f9e6e223
 
-
+https://antonputra.com/kubernetes/add-iam-user-and-iam-role-to-eks/#add-iam-user-to-eks-cluster
 
